@@ -1,3 +1,7 @@
+body {
+  background-image: linear-gradient(to right, cyan, purple);
+}
+
 p.intro {
   width: 50%;
   font-style: italic;
